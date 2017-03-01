@@ -10,7 +10,30 @@ p {
     font-size: 20px;
 }
 
+#myCarousel {
+	width: auto;
+	margin: auto;
+	height: 150px;
+}
 
-#footer {
-	background:#000;
+p {
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.pizza {
+	float:left;
+	color: rgb(70,70,20);
+	font-size: 20px;
+	font-weight: bold;
+}
+.nompizz {
+	float:left;
+}
+.prixpizz {
+	float:right;
+}
+.descpizz {
+	clear:all;
+	width:100%;
 }
