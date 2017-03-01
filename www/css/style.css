@@ -19,15 +19,7 @@ body {
 	text-align: center;
 	margin: 0px;
 	
-}
-	
-p {
-	font-family:JI Fajita;
-}
-
-
-
-
+}	
 .logo {
 
 	float: left;
@@ -41,3 +33,29 @@ h1 {
     color: white;
     text-align: center;
 }
+#myCarousel {
+	width: auto;
+	margin: auto;
+	height: 150px;
+}
+p {
+	font-size: 12px;
+	font-weight: bold;
+}
+.pizza {
+	float:left;
+	color: rgb(70,70,20);
+	font-size: 20px;
+	font-weight: bold;
+}
+.nompizz {
+	float:left;
+}
+.prixpizz {
+	float:right;
+}
+.descpizz {
+	clear:all;
+	width:100%;
+}
+
