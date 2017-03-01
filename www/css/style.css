@@ -1,11 +1,43 @@
 body {
     background-color: lightblue;
 }
+.jumbotron {
+	background-color: #ED3737;
+}
+.img-logo {
+	text-align: center;
+	padding: 0px 0px 0px 0px;
+}
+
+.title {
+	
+	color: yellow;
+	font-size: 35px;
+	line-height: 60px;
+}
+.contact-header {
+	text-align: center;
+	margin: 0px;
+	
+}
+	
+p {
+	font-family:JI Fajita;
+}
+
+
+
+
+.logo {
+
+	float: left;
+}
+.logotr {
+
+	padding: 0px 0px 0px 700px;
+	border-radius: 8px;
+}
 h1 {
     color: white;
     text-align: center;
-}
-p {
-    font-family: verdana;
-    font-size: 20px;
 }
