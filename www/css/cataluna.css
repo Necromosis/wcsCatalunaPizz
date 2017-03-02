@@ -1,0 +1,38 @@
+.jumbotron {
+	background-color: #ED3737;
+}
+.title {
+	color: yellow;
+/*	line-height: 60px;*/
+	font-size: 130px;
+	font-family: 'Permanent Marker', cursive;
+}
+.contact-header {
+	padding:15px 0 0 0;
+	font-size: 25px;
+}
+h3 {
+	font-weight: bold;
+	font-family: 'Permanent Marker', cursive;
+}
+.img-pizz {
+	width: 50%;
+	padding: 10px;
+}
+.collapse {
+	background: rgba(0,0,0,0.8);
+
+}
+
+.navbar-default .navbar-nav > li > a.bnavig:link, .navbar-default .navbar-nav > li > a.bnavig:visited{
+	color: white;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.navbar-default .navbar-nav > li > a.bnavig:hover,.navbar-default .navbar-nav > li > a.bnavig:active{
+	color: yellow ;
+}
+.navbar-default.navbar-nav {
+	text-align: center;
+}
